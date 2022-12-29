@@ -6,11 +6,11 @@ These files underpin the aspatial stochastic population models presented in the 
 [![DOI](https://zenodo.org/badge/359000377.svg)](https://zenodo.org/badge/latestdoi/359000377)
 
 
-<strong>AUTHOR</strong>: Rupert Mathwin, Matt S. Gibbs and Corey J. A. Bradshaw
-<strong>CONTACT</strong>: rupert.mathwin.ecology@gmail.com
-<strong>URL</strong>: http://GlobalEcologyFlinders.com
-<strong>INSTITUTION</strong>: Flinders University; Rupert Mathwin Ecology
-<strong>RELEASE DATE</strong>: September 2022
+<strong>AUTHOR</strong>: Rupert Mathwin, Matt S. Gibbs and Corey J. A. Bradshaw<br>
+<strong>CONTACT</strong>: rupert.mathwin.ecology@gmail.com<br>
+<strong>URL</strong>: http://GlobalEcologyFlinders.com<br>
+<strong>INSTITUTION</strong>: Flinders University; Rupert Mathwin Ecology<br>
+<strong>RELEASE DATE</strong>: September 2022<br>
 
 R code accompanies article: 
 
