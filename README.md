@@ -14,7 +14,7 @@ These files underpin the aspatial stochastic population models presented in the 
 
 R code accompanies article: 
 
-<strong>Mathwin, R, Wassens, S, Gibbs, MS, Young, J, Ye, Q, Saltré, F,</strong> and <strong>Bradshaw, CJA</strong>. 2022. Modelling the effects of water regulation on the population viability of threatened apmphibians. <i>Ecosphere</i> e4379. doi:10.1002/ecs2.4379
+<strong>Mathwin, R, Wassens, S, Gibbs, MS, Young, J, Ye, Q, Saltré, F,</strong> and <strong>Bradshaw, CJA</strong>. 2022. <a href="http://doi.org/10.1002/ecs2.4379">Modelling the effects of water regulation on the population viability of threatened apmphibians</a>. <i>Ecosphere</i> e4379. doi:10.1002/ecs2.4379
 
 <strong>AIM</strong>: Stochastic population model of the population viability of <i>Litoria raniformis</i> at wetlands of four size classes at sill heights of 7 to 11 metres mAHD under natural and regulated flow between Locks 3 and 2 in southern Australia's Murray-Darling Basin. 
 
