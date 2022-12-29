@@ -1,21 +1,15 @@
 # Stochastic Population Model for <i>Litoria raniformis</i>
+<img align="right" src="www/sbfrog-cutout.png" alt="southern bell frog" width="280" style="margin-top: 20px">
 These files underpin the aspatial stochastic population models presented in the article "Modelling the effects of water regulation on the population viability of threatened amphibians"
 
 
 [![DOI](https://zenodo.org/badge/359000377.svg)](https://zenodo.org/badge/latestdoi/359000377)
 
 
-
 <strong>AUTHOR</strong>: Rupert Mathwin, Matt S. Gibbs and Corey J. A. Bradshaw
-
 <strong>CONTACT</strong>: rupert.mathwin.ecology@gmail.com
-
 <strong>URL</strong>: http://GlobalEcologyFlinders.com
-
-<strong>INSTITUTION</strong>: Flinders University
-
-<strong>INSTITUTION</strong>: Rupert.Mathwin.Ecology
-
+<strong>INSTITUTION</strong>: Flinders University; Rupert Mathwin Ecology
 <strong>RELEASE DATE</strong>: September 2022
 
 R code accompanies article: 
