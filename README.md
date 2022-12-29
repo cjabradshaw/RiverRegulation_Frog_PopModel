@@ -1,5 +1,5 @@
 # Stochastic Population Model for <i>Litoria raniformis</i>
-<img align="right" src="www/sbfrog-cutout.png" alt="southern bell frog" width="280" style="margin-top: 20px">
+<img align="right" src="www/sbfrog-cutout.png" alt="southern bell frog" width="200" style="margin-top: 20px">
 These files underpin the aspatial stochastic population models presented in the article "Modelling the effects of water regulation on the population viability of threatened amphibians"
 
 
